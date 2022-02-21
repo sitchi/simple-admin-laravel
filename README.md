@@ -1,8 +1,8 @@
 # simple-admin-laravel
  Simple Admin for the Laravel PHP Framework
 
-![github-small](https://sitchi.dev/sa4.png)
-![github-small](https://sitchi.dev/sa3.png)
+![github-small](https://simple-admin-laravel.sitchi.dev/img/sal1.png)
+![github-small](https://simple-admin-laravel.sitchi.dev/img/sal2.png)
 
 ### Demo Site
 https://simple-admin-laravel.sitchi.dev/
