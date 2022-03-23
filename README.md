@@ -34,8 +34,9 @@ After the installation
 1. Copy .env.example file to .env file with your DB connection information
 2. php artisan key:generate
 3. php artisan migrate --seed
-4. php artisan passport:client --client
-5. Write permissions of the storage directory `sudo chmod -R 0777 storage/`
+4. php artisan passport:install
+5. php artisan passport:client --client
+6. Write permissions of the storage directory `sudo chmod -R 0777 storage/ bootstrap/`
 
 ## License
 
